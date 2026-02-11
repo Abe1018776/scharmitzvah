@@ -1,0 +1,289 @@
+[
+  {
+    "chapter": "פרק חמישי",
+    "section": "משא ומתן",
+    "number": "נב",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מתנת שכר",
+    "number": "נד",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מתנת שכר",
+    "number": "נה",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מתנת שכר",
+    "number": "נו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מתנת שכר",
+    "number": "נז",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מתנת שכר",
+    "number": "נט",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "נסיון",
+    "number": "ס",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עניו",
+    "number": "סא",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עניו",
+    "number": "סב",
+    "rating": "Minor Issues",
+    "issue": "Reason adds 'אלא סבל ביזיון ושפלות בעקבות קיום המצוה' which is an interpretive expansion. The source says the tribes were mocking him (מבזים אותו) so he wouldn't become proud - the index adds 'in the wake of fulfilling the mitzvah' which is implied but not explicit in the source text."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עניו",
+    "number": "סג",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עניו",
+    "number": "סד",
+    "rating": "Minor Issues",
+    "issue": "Reason adds the phrase 'שהרי אינו תובע שכר על מעשיו אלא מודה שאינם שלמים' which is a reasonable inference from the source but not explicitly stated there. The source says he recognizes he did nothing and waits to fulfill it again, and therefore deserves a free gift (מתנת חינם)."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבירה",
+    "number": "סה",
+    "rating": "Minor Issues",
+    "issue": "Source citation mismatch: index says 'פנים יפות (פרשת בא)' but book text abbreviation is 'פרד״י בא' which likely stands for a different source (possibly פרדס יוסף or similar). The expansion of the abbreviation may be incorrect."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבירה",
+    "number": "סו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבירה",
+    "number": "סז",
+    "rating": "Minor Issues",
+    "issue": "Reason elaborates beyond source text: the index adds 'כיון שאין זה מעשה מצוה חיובית אלא הימנעות מעבירה, שכרו אינו עיקר שכר מצוה' as the mechanism, but the source text simply states the ruling without explaining this reasoning. The explanation is a logical inference but not found in the original."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבירה",
+    "number": "סח",
+    "rating": "Minor Issues",
+    "issue": "Reason adds interpretive content: 'שהוא נסיון גדול' and 'כיון שהתגבר על יצרו' are not in the source text, which simply states that by restraining from arayot he merited reward in this world."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבירה",
+    "number": "סט",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבירה",
+    "number": "ע",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבודה",
+    "number": "עא",
+    "rating": "Minor Issues",
+    "issue": "Reason adds 'מבלי שיגרע משכרם בעולם הבא' which is not stated in the source text. The source simply says God pays their reward also in this world."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבודה",
+    "number": "עג",
+    "rating": "Minor Issues",
+    "issue": "Reason adds 'מידה כנגד מידה' as a mechanism which is not stated in the brief source text. The source simply says when one does beautiful service, God adds to his reward in this world."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבודה",
+    "number": "עד",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבודה",
+    "number": "עה",
+    "rating": "Minor Issues",
+    "issue": "Reason adds 'כי עבודתו לשמה מזכה אותו בשכר מיידי' which is not in the source text. The source states the ruling without this specific reasoning."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבודה",
+    "number": "עו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבודה",
+    "number": "עז",
+    "rating": "Minor Issues",
+    "issue": "Reason adds 'ויוכל להמשיך לעבוד את ה׳ ולקיים הבטחותיו' which expands beyond the source text. The source says 'so creatures won't lack life from fulfilling for all who trust in Him'."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבודה",
+    "number": "עח",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבודה",
+    "number": "עט",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבודה",
+    "number": "פא",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבודה",
+    "number": "פג",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבודה",
+    "number": "פד",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבודה",
+    "number": "פה",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "עבודה",
+    "number": "פו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "רוצה",
+    "number": "פז",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "רוצה",
+    "number": "פח",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "רוצה",
+    "number": "פט",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "רוצה",
+    "number": "צ",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "רשות לשם מצוה",
+    "number": "צא",
+    "rating": "Minor Issues",
+    "issue": "Reason adds 'שהרי הוא מקדש את החומר ומעלהו לרוחניות' which is an interpretive addition. The source simply says connecting this-world matters with next-world matters (e.g., giving tzedaka with his wealth) earns abundant this-world blessing."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "רשות לשם מצוה",
+    "number": "צב",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "רשות לשם מצוה",
+    "number": "צג",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "רשות לשם מצוה",
+    "number": "צד",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "רשות לשם מצוה",
+    "number": "צה",
+    "rating": "Minor Issues",
+    "issue": "Reason adds 'כדי שיוכל להמשיך לכבד את התורה' which is not in the source text. The source simply states that one who uses this-world enjoyments for Torah honor receives wealth and honor from God."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "רשות לשם מצוה",
+    "number": "צו",
+    "rating": "Minor Issues",
+    "issue": "Reason adds 'כדי שיוכל להמשיך בפעולתו ולהשפיע על הבריות' which is not in the source text. The source simply states that one who uses this-world enjoyments to teach wayward people understanding will receive wealth and honor from God."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "רשות לשם מצוה",
+    "number": "צז",
+    "rating": "Minor Issues",
+    "issue": "Reason adds explanatory mechanism 'היא מתעלית למדרגת עבודה רוחנית ואינה מעשה גשמי גרידא' which is not in the brief source text. The source simply states that one who eats with yichudim, intellect and wisdom receives reward in this world too."
+  }
+]

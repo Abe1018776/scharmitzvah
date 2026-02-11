@@ -1,0 +1,695 @@
+[
+  {
+    "chapter": "פרק חמישי",
+    "section": "זכות אבות",
+    "number": "א",
+    "rating": "Minor",
+    "issue": "Source citation says 'החיד\"א כסא דוד' but the book text says 'פרדס יוסף פנחס, בשם כסא דוד' - the attribution to the Chida is not in the source text."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "כבוד שמים",
+    "number": "כא",
+    "rating": "Minor",
+    "issue": "The reason elaborates that 'הרמת כבוד ה' בגוים היא פעולה הנראית ומתגלית בעולם הזה' - this interpretive reasoning is not stated in the source text, which simply says 'ראוי שישלם לך שכר פעולתך בעוה\"ז' without explaining why."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "כבוד שמים",
+    "number": "כג",
+    "rating": "Minor",
+    "issue": "Reason elaborates beyond source. Source simply says 'מטעם קידוש ה' נותן שכר בהאי עלמא', while index adds interpretive detail about 'כשהשכר ניתן לעיני הבריות מתקדש שם שמים שרואים שהקב\"ה משלם שכר' - this mechanism is not in the source text."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לב",
+    "rating": "Minor",
+    "issue": "Reason adds 'זכותם תלויה בו ושכרו מרובה' which is not stated in the source text. The source simply says the one who merited the many receives reward in this world without specifying this mechanism."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לג",
+    "rating": "Minor",
+    "issue": "Reason adds interpretation not in source. Source says 'מגיע לו שפיר שכרו גם בעוה\"ז' without elaborating why. Index adds 'כיון שפעולתו גרמה... הרי זכותו מתרבה ומתפשטת' which is editorial interpretation."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לד",
+    "rating": "Minor",
+    "issue": "Reason is fabricated/elaborated. Source only states 'מי שמעורר ומוכיח אחרים מגיע לו שכר מצותיו בעוה\"ז' without any reasoning. Index invents reasoning about זכויותיהם נזקפות גם לזכותו which is not in the source."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לה",
+    "rating": "Minor",
+    "issue": "Reason adds fabricated reasoning 'כדין מצוות שבין אדם לחבירו' which is not in the source text. Source simply says 'וממילא מגיע לו שכר בהאי עלמא' without explaining it as a bein adam lachavero category."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לו",
+    "rating": "Minor",
+    "issue": "Reason elaborates beyond source. Source states the conclusion without reasoning. Index adds 'אינו רק מקיים מצוה בעצמו אלא גורם זכות לרבים' which is editorial interpretation."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לז",
+    "rating": "Minor",
+    "issue": "Reason adds 'שהיא יסוד העבודה' which is not in the source text. Source says 'גרמו להגדיל האמונה בלב ישראל ע\"כ זכו לקבל שכרם בעוה\"ז' without characterizing אמונה as יסוד העבודה."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לט",
+    "rating": "Minor",
+    "issue": "Reason adds 'זכותם של הרבים תלויה בו' which is not stated in the source. Source simply concludes 'ושפיר מגיע לו שכר בהאי עלמא'."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "ב",
+    "rating": "Minor",
+    "issue": "Reason mostly restates the summary. Index adds 'מדרגה מיוחדת' and 'בלא אמצעי' which are not explicitly in the source text."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "ד",
+    "rating": "Minor",
+    "issue": "Reason adds 'וכשם שזכות הרבים עומדת להם בעולם הזה' which is not explicitly stated in the source. Source only says 'כרבים דמי'."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "ו",
+    "rating": "Minor",
+    "issue": "Reason adds 'שהרי אין לו עולם הבא נפרד מעולם הזה' which is interpretive and not explicitly in the source text."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "י",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive framing 'כפיצוי על הצער הגופני' which is not in the source. Source only states the fact without explaining it as compensation."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "יג",
+    "rating": "Minor",
+    "issue": "Reason adds 'שכן מעשה צדקות מיוחד ראוי לגמול מיוחד בעולם הזה' which is a general rationale not found in the source text."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "יז",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive content 'מורה על מדרגה מיוחדת של רצון אלוקי כלפי הצדיק' not found in the source text."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "כב",
+    "rating": "Minor",
+    "issue": "Reason adds interpretation 'אין השכר בעולם הזה גורע משכרם בעולם הבא, שהרי תמיד הם מוסיפים זכויות ועליות' not found in source. Source simply states 'ממילא שייך ליתן להם שכר גם בעוה״ז'."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "כה",
+    "rating": "Minor",
+    "issue": "Reason adds 'שכבר אינו עיקר שכרו' which is not stated in the source text."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "כח",
+    "rating": "Minor",
+    "issue": "Reason adds 'ואין בידו עבירות' and 'שאין צורך לדחות שכרו לעולם הבא' which are not stated in the source. Source simply cites the Gemara as proof."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "לא",
+    "rating": "Minor",
+    "issue": "Source citation includes 'ספר שכר מצוה פרק רביעי' which appears to be a self-reference from a parsing artifact in the book text ('ס שכר מצוה פרק רביעי')."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "לו",
+    "rating": "Minor",
+    "issue": "Reason adds 'כדי להאבידו מן העולם הבא ולא יהיה לו זכות שם' which, while part of the broader Rashi, is not explicitly quoted in the source text provided."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "זמנים מסויימים",
+    "number": "מ",
+    "rating": "Minor",
+    "issue": "Source citation lists 'מסילות נפש' as a separate source, but in the text 'בעל מסילות נפש' refers to the author, not a separate source. The actual source is only 'שארית מנחם פרשת עקב'."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "זמנים מסויימים",
+    "number": "מב",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive content 'כמו הנשמה' and 'הן בבחינת גשמיות ורוחניות כאחד' not in the source. Source only says the body becomes holy on Shabbat."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קיח",
+    "rating": "Minor",
+    "issue": "The index reason adds 'ייחוד מצוה אחת ושמירתה בקביעות מוחלטת ללא שום עבירה עליה מעולם מראה על מסירות מיוחדת' — the source text does not explain why this brings reward in olam hazeh, it just states the fact. The added explanation about 'מסירות מיוחדת' is an editorial addition not found in the source."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קכא",
+    "rating": "Minor",
+    "issue": "The index reason adds 'אין חשש שיתקלקל על ידי עשירות' and 'בלא נזק רוחני' — the source text simply says someone content with little gets wealth. The reasoning about spiritual damage risk is an inference not explicitly stated in the source."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קכב",
+    "rating": "Minor",
+    "issue": "The index reason adds 'אין בכלל חשש של כליון שכרו' which is not in the source text. The source says he is not part of this world (אינו שייך כלל להאי עלמא) and therefore receives reward — the index adds an explanation about 'כליון שכרו' that is not in the original."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קכג",
+    "rating": "Minor",
+    "issue": "The index reason says 'מידה כנגד מידה נותנין לו שכרו בעולם הזה נוסף על עולם הבא' — the source text does not mention midah keneged midah. The source simply says that someone who learns wisdom from everything receives reward in olam hazeh as well. The midah-keneged-midah framing is editorial."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קכד",
+    "rating": "Minor",
+    "issue": "The index reason mentions 'רגליהם רצות להיטיב לאחיהם' which is in the source, but the initial framing 'התורה הבטיחה בלשון רבים ועבדתם לעוסקים בצרכי הכלל' slightly reinterprets the source. The source says the Torah used plural language, but the index presents the connection more assertively. Minor editorial embellishment."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קכח",
+    "rating": "Minor",
+    "issue": "The index reason adds 'שאין זה מן קרן המצוות אלא ברכה מיוחדת שבידו לתת' which is not in the source. The source says children are in God's hands alone and therefore reward can be given in olam hazeh — the index adds the distinction about 'keren hamitzvot' which is editorial."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קל",
+    "rating": "Minor",
+    "issue": "The index reason adds 'שהרי האדם עצמו מקיים דבריו בעולם הזה וממילא גם שכרו ניתן כאן' — while the source does mention midah keneged midah, the specific logical connection 'since the person fulfills his words in this world, the reward is also given here' is an editorial expansion. The source (Chakal Yitzchak) says it differently: 'אפילו בהאי עלמא לא הוי אגר נטר'."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קלד",
+    "rating": "Minor",
+    "issue": "The source text is very terse: 'דכיון בחיוב גופן אפילו אינו לשמה מגיע לו שכר בעוה\"ז'. The index reason expands this to 'נדר יוצר חיוב גופני על האדם, ולכן אף כשאינו מכוון לשמה, עצם קיום החיוב הגופני מזכהו בשכר' and adds 'שהרי הגוף עצמו מחויב במצוה' — this last phrase is editorial expansion not in the source."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קלה",
+    "rating": "Minor",
+    "issue": "The index reason adds 'מעלת מסירותו יתירה ולכן זוכה לשכר בשני העולמות' — the source text says he could eat/drink and enjoy but chooses Torah and his reward is great. The reasoning about 'מעלת מסירותו יתירה' as the causal mechanism is an editorial inference, though it is a reasonable one."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קלו",
+    "rating": "Minor",
+    "issue": "The index reason adds 'שכר של אריכות ימים בארץ ישראל הוא שכר מיוחד שהתורה עצמה הבטיחתו, ולכן מותר לכוון לקבלו ואין זה בגדר עובד על מנת לקבל פרס הרגיל'. The source text simply says 'מותר לעבוד ע\"מ שיזכה להאריך ימים... דבשביל שכר זה מותר לעבוד'. The distinction about 'eved al menat lekabel pras haragil' is editorial addition."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קלז",
+    "rating": "Minor",
+    "issue": "The index reason adds 'מגיע לו שכר מיוחד גם בעולם הזה בשל המאמץ והמלחמה שנלחם כנגד טבעו'. The source text is very terse: 'כי השכר שפעולתו הוא בניגוד יש לו שכר גם בעוה\"ז'. The elaboration about 'מאמץ ומלחמה שנלחם כנגד טבעו' is editorial expansion."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קמ",
+    "rating": "Minor",
+    "issue": "The index reason says 'כיון שרבים צריכים לו ותלויים בו, ממילא מגיע לו כבוד והצלחה בעולם הזה כדי שיוכל לספק צרכיהם ולהועיל להם'. The source simply says 'כי רבים צריכים לו וממילא מגיע לו כה\"ע'. The elaboration about 'כדי שיוכל לספק צרכיהם ולהועיל להם' is editorial addition, adding a teleological reason not in the source."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קמד",
+    "rating": "Minor",
+    "issue": "The index reason adds 'אף שסומא פטור מן המצוות, מכל מקום במצוות שיכול לקיימן שפיר זוכה לשכר בעולם הזה'. The source text does not mention exemption from mitzvot — it simply states that a blind person can fulfill mitzvot and receive reward of life and length of days. The framing about exemption is editorial addition."
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "ג",
+    "rating": "Minor",
+    "issue": "The index reason says 'מצות המילה יוצרת קשר מיוחד של אהבה ועזרה מהקב\"ה, ומכוח קשר זה נמשך שכר בעולם הזה'. The source text says 'השכר מלוה בהאי עלמא הני׳ בתורה כ״פ מצד מצות המלות ואהבתו ועזרתו' — likely 'המלות' should be read as 'המילות' (the words/utterances), not necessarily 'המילה' (circumcision). The index may have misread the source, interpreting 'מצות המלות' as 'מצות המילה' rather than 'מצד מצות המילות' (from the aspect of the words/commands). This could be a misinterpretation."
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "כד",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive content not explicit in source. Source says the sin was Zimri's free choice so the mitzvah of Pinchas was also by free choice, hence schar is due by din. Index reason adds 'ממילא גם המצוה שנגרמה על ידה אינה מן השמים אלא זכות עצמית' which is a reasonable paraphrase but adds 'ולא בתורת חסד' not in source."
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "כו",
+    "rating": "Minor",
+    "issue": "Reason adds 'מידה כנגד מידה' concept not explicitly stated in source. Source simply says Hashem will send blessing in their handiwork. The midah-kneged-midah framing is an interpretive addition."
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "כז",
+    "rating": "Minor",
+    "issue": "Reason adds 'אין כאן דין שליחות ואין לומר שלוחו של אדם כמותו' which is not in the source text. Source discusses la talin and the idea that no one else could do the mitzvah, but the shlichus framing is added by the index."
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "כח",
+    "rating": "Minor",
+    "issue": "Reason adds 'מצוה שרבים נכשלים בה ומעטים עומדים בה מעידה על מסירות יתירה ועמידה בניסיון מיוחד' which is interpretive elaboration. Source simply states the fact that schar in olam hazeh is given for a unique mitzvah that most fail at, without explaining why this is the mechanism."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "מ״ע ול״ת מיוחדות",
+    "number": "ב",
+    "rating": "Minor",
+    "issue": "Summary says 'יש בהן שכר מצוה בעולם הזה לנשים' — the source discusses mitzvos aseh shehazman grama generally regarding women being exempt, but does not say women specifically receive schar in olam hazeh. The phrasing 'לנשים' in the summary is misleading — the source says these mitzvos have schar in olam hazeh generally."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "מ״ע ול״ת מיוחדות",
+    "number": "ה",
+    "rating": "Minor",
+    "issue": "Reason adds 'מידה כנגד מידה' concept not present in source. Source only says the one who is zahir in mezuzah and checks it regularly merits a nice dwelling. The midah-kneged-midah reasoning is fabricated."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "מ״ע ול״ת מיוחדות",
+    "number": "ו",
+    "rating": "Minor",
+    "issue": "Reason adds 'מדה כנגד מדה: המחבב את המזוזה שבפתח ביתו ומנשקה' — source text only states the fact that one who kisses the mezuzah merits a nice dwelling. The midah-kneged-midah reasoning is not in the source."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "מ״ע ול״ת מיוחדות",
+    "number": "ז",
+    "rating": "Minor",
+    "issue": "Reason adds 'מידה כנגד מידה' and 'שהמזוזה שומרת הבית והמהדר בה זוכה לבית נאה' — source only states the fact of meriting a nice dwelling. The mechanism is fabricated."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "מ״ע ול״ת מיוחדות",
+    "number": "ט",
+    "rating": "Minor",
+    "issue": "Reason adds 'חומרת העונש מלמדת על גודל המצוה' which is an interpretive addition. Source simply states that since there is kares for bitul milah, schar in olam hazeh applies. The index adds a causal explanation not present in the source."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "מ״ע ול״ת מיוחדות",
+    "number": "יא",
+    "rating": "Minor",
+    "issue": "Reason adds 'מצות מילה על כל חלקיה ועניניה נחשבת ממצוות שאדם אוכל פירותיהן בעולם הזה' — source says those involved in milah merit achilas peiros in olam hazeh but does not explicitly categorize milah as one of the mitzvos in the mishna of 'eilu devarim she'adam ochel'. The generalization is slightly beyond the source."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "מ״ע ול״ת מיוחדות",
+    "number": "יב",
+    "rating": "Minor",
+    "issue": "Reason adds 'מידה כנגד מידה' concept not in source. Source says shmirat habrit leads to kol tuvot ha'olam hazeh, referencing the pasuk. Index adds the midah-kneged-midah framing as reasoning."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "מ״ע ול״ת מיוחדות",
+    "number": "טו",
+    "rating": "Minor",
+    "issue": "Reason adds 'מידה כנגד מידה — המשלח את האם ונוטל את הבנים, מרחם על האם, זוכה שהקב\"ה ירחם עליו ויזכהו לבנים' — source only states 'שילוח הקן שכרו שיהיו לו בנים'. The midah-kneged-midah reasoning about rachamim is entirely fabricated and not in the source."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "מ״ע ול״ת מיוחדות",
+    "number": "יח",
+    "rating": "Minor",
+    "issue": "Reason adds 'הקרבנות מעוררים שפע ברכה מלמעלה לצרכי העולם הזה' which is interpretive elaboration. Source simply states that in merit of korbanos Hashem gives mazonos."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "מ״ע ול״ת מיוחדות",
+    "number": "כב",
+    "rating": "Minor",
+    "issue": "Reason adds 'כיון שנשמר מנדנוד איסור עריות והתגבר על יצרו בדבר חמור זה, זכותו גדולה עד שמשלמין לו שכרו גם בעולם הזה' — source simply says he was shomer from nidnud issur arayos and therefore merited schar in olam hazeh. The index fabricates a reasoning about 'zchuso gedolah' and 'hisgaber al yitzro' not present in the source."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "תורה",
+    "number": "כד",
+    "rating": "Minor",
+    "issue": "Reason says 'תורה שבעל פה שונה משאר מצוות...בתורה שבעל פה יש חריגה מכלל זה' — this is vague and adds no real reasoning. Source also does not provide a reason (taam) — it simply states the fact. The index should either note there is no explicit reason or leave the reason minimal. Instead it adds interpretive filler."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "תורה",
+    "number": "כה",
+    "rating": "Minor",
+    "issue": "Reason focuses on 'מסירות נפש שבלימוד התורה' which comes only from one of three sources cited (ואך פרי תבואה). The index synthesizes this as THE reason while the source has multiple distinct approaches. The baal haturim source says Torah brings blessings, Peah says talmud torah kneged kulam. Only the third source mentions 'memis atzmo aleha'."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "תורה",
+    "number": "כט",
+    "rating": "Minor",
+    "issue": "Reason adds 'הרי זה כפועל שעשה מלאכתו ודינו כלבושו וכליו של הקב״ה' — source text is partially garbled/unclear ('דינא כלבשו כסימניס של בשר״ו') but the index interprets it as 'like a worker who did his work'. The interpretation may be reasonable but adds specificity to unclear source text."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "תורה",
+    "number": "לג",
+    "rating": "Minor",
+    "issue": "Reason adds 'מי שמכוון להלכה בלימודו מעלתו גדולה עד שאינו נמוט' — source says 'lo yimot ol' (will not be shaken forever) and therefore schar in olam hazeh. The index elaborates with 'maalato gedolah' which is not in the source."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "תורה",
+    "number": "לד",
+    "rating": "Minor",
+    "issue": "Reason adds 'השמחה מוסיפה שלמות לקיום המצוה ועל כן ראוי לשכר מיידי' — source simply states that one who is happy in his toil in Torah, Hashem establishes full schar in olam hazeh. The 'mosifa shleimus' reasoning is fabricated."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "תורה",
+    "number": "לז",
+    "rating": "Minor",
+    "issue": "Reason adds 'מה שאין כן בלימוד שלא לשמה שאין בו מעלה זו' — source says schar in olam hazeh for Torah applies only to lishmah learning, but the index adds a contrasting explanation about shelo lishmah that is not in the source text."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "פד",
+    "rating": "Minor",
+    "issue": "Reason adds 'כשאר מצוות שמשתלמות בהאי עלמא' which is not stated in the source text"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "פה",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive language 'שהמכבד את השבת ביציאתה זוכה לפרנסה תמידית כשכר על כך' not found in source; source simply states the promise without explaining why"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "פו",
+    "rating": "Minor",
+    "issue": "Reason adds 'כי הקב\"ה מחזיר לו מה שמוציא לכבוד יום טוב' - interpretive addition; the Gemara source says 'אם מוסיף מוסיפין לו' without this specific explanation"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "פח",
+    "rating": "Minor",
+    "issue": "Reason's final clause 'הרי שההנאה הגופנית עצמה נעשית שכר בעולם הזה' is an interpretive addition; source simply says there is schar in olam hazeh without specifying this mechanism"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "צא",
+    "rating": "Minor",
+    "issue": "Reason adds 'אין להן שכר בעולם הבא כמחויבות' which is not in the source text; source simply states that מצוות שהזמן גרמא have שכר בהאי עלמא"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "צג",
+    "rating": "Minor",
+    "issue": "Reason rephrases awkwardly with 'אין לה אכילת פירות בעולם הבא בלבד' which misrepresents the source; source says these mitzvos were written 'עבור חיי העוה\"ז' and therefore have schar in olam hazeh"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קטו",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive content 'מעלת מצוותו גדולה יותר ולכן ראוי' not found in source text which simply states the reward without explanation"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קטז",
+    "rating": "Minor",
+    "issue": "Reason fabricates 'מראה שחפצו ורצונו בצדקה באמת ולא רק מפני שנזדמן לו' - source only states the scenario and the greatness of reward without explaining why"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכב",
+    "rating": "Minor",
+    "issue": "Reason adds 'שמדה כנגד מדה הנותן לאחרים זוכה לקבל' which is not in the source text"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכג",
+    "rating": "Minor",
+    "issue": "Reason adds 'שבהן יש תועלת מעשית בעולם הזה' as an explanatory clause not found in the source"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכז",
+    "rating": "Minor",
+    "issue": "Reason adds 'שמפאת חשיבותה וגודל מעלתה' as explanation - source (Peah) simply lists gemilut chasadim among items earning reward in olam hazeh without giving this reason"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכח",
+    "rating": "Minor",
+    "issue": "Reason adds 'חסד של אמת שאין המת יכול לגמול' which is a general concept but not stated in the cited source text; also summary has 'כרות' which appears to be a corruption/typo"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכט",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive content 'עניינן תיקון החיים בעולם הזה' and 'בברכות גשמיות המתאימות לטבע מצוות אלו' not found in source which simply states the fact"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קלא",
+    "rating": "Minor",
+    "issue": "Reason fabricated: The source (שבת קכז.) simply lists דן חבירו לכף זכות among 6 things one benefits from in this world. The index reason introduces 'מידה כנגד מידה' reasoning that is not present in the source text."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קלב",
+    "rating": "Minor",
+    "issue": "Reason partially fabricated: The source says the reward in this world is for the 'מילי' (words of praise to the groom/bride). The index reason adds 'שמחת חתן וכלה היא מצוה שתועלתה ניכרת בעולם הזה' which is not in the source. Also source citation slightly altered: book has 'ויעב״ץ ברכות ו:' but index has 'ויעב\"ץ על ברכות ו:' (added word 'על')."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קלד",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source simply says the reward in this world is for raising one's voice so listeners cry. The index reason elaborates 'עיקר שכר הלוויה אינו על עצם ההשתתפות' which is an inference not stated in the source."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "חינוך",
+    "number": "קלז",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source says 'שפיר הקב״ה יכול ליתן השכר בעוה״ז' but the index reason adds 'אין חשש שהשכר בעוה\"ז יסיט אותם מן הדרך הישרה' which is an interpretive addition not present in the source text."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "רצון והשתוקקות",
+    "number": "א",
+    "rating": "Minor",
+    "issue": "Reason adds content: The sources simply state that for the desire/yearning to fulfill mitzvot there is reward in this world. The index reason adds 'הרצון הטוב לקיים המצוה הוא ענין בפני עצמו הנפרד ממעשה המצוה גופא' and 'אין זה גורע משכר המצוה עצמה המשתלם בעולם הבא' — these explanatory mechanisms are not present in any of the four source texts."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "רצון והשתוקקות",
+    "number": "ב",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source says 'שימתין על המצוה' (wait for the mitzvah) and 'כשיושב ומצפה על המצוה מחמת אהבת ה׳'. The index reason adds 'נחשבת כשמירת המצוה' which is not explicitly stated in the source. The first source uses 'תשמרו' but the leap to calling the waiting 'שמירת המצוה' is an interpretation."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "מקבל",
+    "number": "ז",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source simply says that when one goes to a place for a mitzvah to come his way, there is reward in this world. The index reason adds 'טרחה יתירה זו מזכה אותו בשכר... שלא כמי שהמצוה באה לפניו מאליה' — the contrast with someone who has the mitzvah come to them is not in this source text (though it may be inferred from context of adjacent entries)."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "מקבל",
+    "number": "ח",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source says the person prepares himself and 'מהדר אחריה לעשותו כראוי וכנכון בכל פרטיה ודקדוקיה' and receives reward. The index reason adds 'חיבוב מצוה יתירה' which is not in the source text."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "ממציא עצמו",
+    "number": "ו",
+    "rating": "Minor",
+    "issue": "Source citation minor discrepancy: Book has 'קדושת ציון דף קי״ו' but index has 'קדושת ציון דף קט״ז'. The page number differs (קי״ו = 116 vs קט״ז = 197). The reason is a reasonable synthesis of multiple sources but adds the explanatory framing about רוחני/גשמי that comes mostly from the last source (ואת לרבות)."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "טירחא",
+    "number": "יג",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source says 'שטרח לילך ולשמוע וללמוד וללמד המצוה מפי החכם כדי לעשותה כתיקונה, מגיע לו שכר'. The index reason adds 'מוסיפה מעלה יתירה על עצם קיום המצוה' which is an interpretive addition. Also minor source citation: book has 'ובאר מנחם ראה' but index has 'באר מנחם (פרשת ראה)' — dropped the leading ו."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "הכנה",
+    "number": "טז",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source says 'השכר הגשמי הוא רק על ההכנה למצוה'. The index reason adds 'ההכנה למצוה שהיא ענין גשמי יותר' — characterizing the preparation as 'more physical' is not in the source text."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "הכנה",
+    "number": "יח",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source says preparing for Shabbat from weekdays earns reward in this world. The index reason adds 'מעלה את קדושת המצוה ומראה על חיבוב מיוחד' which is not in the source text."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "הכנה",
+    "number": "יט",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source about Pinchas says he acted from internal drive without preparation and 'בדין הוא שיטול שכרו'. The index reason adds 'שמעשהו נובע מעצם מהותו הפנימית' and 'נעשה ראוי לשכר מיידי' which are interpretive additions. Also, this entry seems oddly placed in the הכנה section since it describes acting WITHOUT preparation."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "לומד",
+    "number": "כא",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source says there are many mitzvot that earn reward in this world, including learning Torah laws. The index reason adds 'לימוד דיני המצות נחשב כעין קיום המצוה עצמה' which is not stated in this source (though it appears in nearby entry כג)."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "שמחה",
+    "number": "כח",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source simply says working with joy and love earns reward in this world. The index reason adds 'היא מדרגה עליונה המזכה את האדם' and 'מעלות את העבודה למדרגה שראויה לתגמול מיידי' which are interpretive embellishments not in the source."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "זריזות",
+    "number": "ל",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source says one who is zealous with a mitzvah and doesn't wait all day receives reward in this world. The index reason adds 'מעבר לחיוב הבסיסי מהווה תוספת מעלה והידור' which is an interpretive addition not in the source."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "מסי״נ",
+    "number": "לו",
+    "rating": "Minor",
+    "issue": "Reason adds content: The sources say mitzvot done with mesirut nefesh earn reward in this world, and one source (דברי שמחה) mentions 'למעלה מהטבע'. The index reason elaborates 'אין שכרה מוגבל לעולם הבא בלבד' and 'האדם נתעלה מגדרי הטבע ונעשה ראוי לשכר מיידי' which go beyond the source texts."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "מסי״נ",
+    "number": "מ",
+    "rating": "Minor",
+    "issue": "The reason in the index states 'מסירות נפש יוצרת מציאות של פנים חדשות, ועל ידי כך נעשה כבריה חדשה' — the source from שארית מנחם says 'ונעשה פנים חדשות וזוכה לשכר בעוה\"ז' and the source from אמרי יצחק simply says 'דעל מקי\"נ מקבל שכר בהאי עלמא'. The index reason elaborates 'שאינו נחשב כמאבד קרן לעולם הבא' which is not explicitly stated in either source text."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "מסי״נ",
+    "number": "מא",
+    "rating": "Minor",
+    "issue": "The index source lists 'זרע בירך, תפארת חיים (צו)' but the book_parsed source only cites 'תפארת חיים, צו' and mentions זרע בירך as the author who wrote about this (וכתב הזרע בירך). The זרע בירך is not a separate source citation but the author quoted within the תפארת חיים text. Minor source attribution issue."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "כולל",
+    "number": "מה",
+    "rating": "Minor",
+    "issue": "The index reason says 'שכר מצוה בעולם הזה אינו שייך כי המצוה נעשית כנגד הקב\"ה שהוא אין סוף ואין עולם הזה כדאי לשלם עבורה' — the source says 'דהוא מאוס דעשה המצוה נגד הקב\"ה לאין סוף'. The word 'מאוס' in the source is unclear/possibly a parsing error, but the index interprets it as 'אין עולם הזה כדאי לשלם' which is a reasonable interpretation. Summary and source citation are correct."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "צער והעדר תענוג",
+    "number": "נד",
+    "rating": "Minor",
+    "issue": "The source text says 'בעושה עבירה לשמה וכו׳ מחמת שפתיך שהיה עבירה וכו׳ אינו מרגיש מתיקות בעשייתה' — referring to doing an aveira lishmah (like Yael), but the index summary and reason reframe it as 'מי שיש לו צער גדול לשם שמים בעת עשיית המצוה' without mentioning the aveira lishmah context. The index also adds 'אין לו שכר רוחני בעולם הבא מצד ההנאה' which is not stated in the source. The core idea is preserved but the nuance is shifted."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "צער והעדר תענוג",
+    "number": "נט",
+    "rating": "Minor",
+    "issue": "The index reason adds 'העמידה בניסיון של המשך בדרך התורה אף בשעת דחק מוכיחה מסירות נפש יתירה' — the source text simply says 'אבל אם אתה עושה כן, על אף העוני והדחק הנך ממשיך בדרך התורה אז תזכה לשני עולמות'. The concept of 'מסירות נפש יתירה' is added by the index and not stated in the source."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "צער והעדר תענוג",
+    "number": "סא",
+    "rating": "Minor",
+    "issue": "The index reason says 'הקב\"ה מתייחס לכך כצדקה ומשלם לו מידה כנגד מידה בפרהסיא בעולם הזה'. The source says 'צדקה שהקב״ה עושה עם ישראל, הוא עושה בפרהסיא, מחמת שעושה מצות בפרהסיא' — the source says the tzedaka from Hashem is in public because the person did mitzvos in public. The index adds the concept 'מידה כנגד מידה' which is implicit but not stated. Minor embellishment."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "סג",
+    "rating": "Minor",
+    "issue": "The index title and summary say 'צ\"ט שערי היתר' (99 gates of permissibility) but the source text says 'נ\"ט שערי היתר' (59 gates). This is a factual discrepancy — the number is wrong in the index."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "עא",
+    "rating": "Minor",
+    "issue": "The index source says 'קדושת לוי פרשת פנחס' but the book_parsed source citation says 'לוי פ' פנחס' (possibly truncated from קדושת לוי). The index expanded the abbreviated name, which is reasonable but not directly from the parsed text. The reason is a reasonable interpretation of the source."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "עב",
+    "rating": "Minor",
+    "issue": "The index summary says 'מי שבעת עשיית המצוה דבוק בקדושה עליונה ומופשט מעוה\"ז זוכה לשכר בעוה\"ז' but the source text actually focuses on the negative case: 'אם בעת עשיית המצוה הוא בהאי עלמא ואינו מחוסר אל הקדושה... אין לו שכר מצוה'. The index inverts the framing — the source states when there is NO schar, while the index states when there IS schar. The positive case is implied but not directly stated in the source."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "עח",
+    "rating": "Minor",
+    "issue": "The index reason says 'כשאדם עומד בנסיון ומקיים מצוות גם כשמידת הדין שולטת, הקב\"ה נותן לו שכר בעולם הזה כגמול על עמידתו באמונה למרות הקושי'. The source text says 'אם בחוקותי: אם במילת הדין ח\"ו ואעפ\"כ תלכו במצותי וכו׳ ואז ונתתי גשמיכם'. The source is more concise and simply states the conditional — if despite midat hadin you still follow, then you get reward. The index reason adds 'כגמול על עמידתו באמונה למרות הקושי' which is interpretive elaboration not in the source."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "שונות",
+    "number": "פב",
+    "rating": "Minor",
+    "issue": "The index reason says 'השמיעה לדעת חכמים מוסיפה שלמות בקיום המצוה, ובזכות ההשתדלות לקיימה כהלכתה מגיע לו שכר גם בעולם הזה'. The source text simply says 'על השמיעה דעת חכמים כדי לקיים המצוה ע\"ז מגיע שכר טוב גם בעוה\"ז'. The source does not explain WHY — it just states the fact. The reason 'מוסיפה שלמות בקיום המצוה' is fabricated/inferred by the index."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "שונות",
+    "number": "פד",
+    "rating": "Minor",
+    "issue": "The index reason says 'קיום המצוות על יסוד המסורת והקבלה מאבותינו הוא בגדר זכות המצדיקה קבלת שכר, שכן מקיים מתוך אמונה ונאמנות למסורת'. The source text simply says 'כל המצות שאנו מקיימים אותן מצד השמועה בדרך קבלה מאבותינו, על זה שפיר מגיע שכר'. No reason is given in the source; the index fabricated the reasoning about 'אמונה ונאמנות למסורת'."
+  }
+]

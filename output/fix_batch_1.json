@@ -1,0 +1,86 @@
+[
+  {
+    "chapter": "פרק חמישי",
+    "section": "זכות אבות",
+    "number": "ג",
+    "rating": "Major",
+    "issue": "Multiple errors: (1) Summary 'כלל ישראל שקיבלו את התורה' doesn't match the source which is about שכר ממתין ליוצאי חלציו. (2) Reason about מציל מזוטו של ים is fabricated - not in this source (appears to come from entry ז in ישראל section). (3) Source citation 'טללי אורות ואתחנן' is wrong - should be 'פנינים משולחן הגר\"א, עקב'."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "זכות אבות",
+    "number": "ה",
+    "rating": "Major",
+    "issue": "Multiple errors: (1) Source citation 'זרע בירך פר' עקב, הובא בדורש טוב סג' is wrong - book says 'בית אשר בחוקותי'. (2) Summary about עובדים מאהבה בבחינת בן doesn't match source about walking among mocking nations. (3) Reason about עבד vs בן distinction is fabricated - not in this source (appears to belong to entry יב in יסורים section)."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "ישראל",
+    "number": "ו",
+    "rating": "Major",
+    "issue": "Multiple errors: (1) Summary 'המקבל יסורים מאהבה' doesn't match source about דין הרבים שהעולם נידון בכללו. (2) Source citation 'זרע שמשון פר' עקב' is wrong - book says 'קומץ המנחה, ראה'. (3) Reason referencing ברכות ה. is fabricated."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "ישראל",
+    "number": "ז",
+    "rating": "Major",
+    "issue": "Multiple errors: (1) Summary about מקדש שמו ומזכה הרבים doesn't match source about Torah acceptance as מציל מן הנהר. (2) Source 'חת\"ס פר' פנחס' is wrong - book says 'טללי אורות, ואתחנן'. (3) Reason about מזכה הרבים אין חטא בא על ידו is fabricated."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "ישראל",
+    "number": "ט",
+    "rating": "Major",
+    "issue": "Multiple errors: (1) Source citation 'שארית מנחם פרשת בחוקותי' is wrong - book says 'דודאים בשדה ראה'. (2) Summary about נח\"ר להשי\"ת doesn't match source about ישראל מקושרים במחזות הבורא. (3) Reason about קבלת השכר הוא בעצם מצוה is fabricated."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "ישראל",
+    "number": "י",
+    "rating": "Major",
+    "issue": "Summary 'המזכה את הרבים' is completely wrong - the source is about God's desire that Israel should benefit from this world. Reason about חוץ למצוה is fabricated and doesn't match the source content."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "שונות",
+    "number": "פו",
+    "rating": "Major",
+    "issue": "Reason fabricated. Source text only states the rule (רבים עושים מצוה יש להם שכר בעוה״ז) without giving a reason. The index invents 'זכות הרבים גדולה יותר מזכות היחיד' which is not in the source."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "ז",
+    "rating": "Major",
+    "issue": "Reason adds fabricated content: 'שהרי אין לה עוד חלק בעולם הבא מצד תיקונה הקודם' is not in the source. Source only says the soul completed its rectification and therefore deserves reward in this world."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "ט",
+    "rating": "Major",
+    "issue": "Reason fabricated. Source only states the rule without explaining why. Index invents 'שכן הוא נושא באחריות הציבור בנאמנות ובישרות' which is not in the source."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "כו",
+    "rating": "Major",
+    "issue": "Reason fabricated. Source only states that everyone knows he's a true tzaddik and he deserves reward in this world. The index invents the rationale 'אין חשש שיחשבו שעולם הזה הוא עיקר שכרו' which is not in the source."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "כט",
+    "rating": "Major",
+    "issue": "Reason fabricated. Source only states the rule distinction between Israel and nations. Index invents 'שאין להם חלק בעולם הבא כישראל' as a rationale, which is not in the source and is theologically inaccurate (as Rambam rules righteous gentiles have a share in Olam HaBa)."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "לז",
+    "rating": "Major",
+    "issue": "Reason fabricated. Source only states that since worldly matters are insignificant to her, reward can be given in this world. Index invents the rationale 'אין השכר הניתן לו בעולם הזה מנכה משכרו הרוחני בעולם הבא' which is not in the source."
+  }
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "ד",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "ה",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "ו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "ז",
+    "rating": "Minor Issues",
+    "issue": "Reason adds interpretive content ('הכנה למצוה אינה המצוה עצמה אלא טפלה לה') not stated in the source text, which simply says each mitzva includes preparation for the next."
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "ח",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "ט",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "י",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "יא",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "יב",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "יג",
+    "rating": "Minor Issues",
+    "issue": "Source field lists 'רמב\"ם' as a separate source, but the book text only cites 'ערבי נחל ואתחנן' which references the Rambam's view. The Rambam is quoted within the source, not cited independently."
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "יד",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "טו",
+    "rating": "Minor Issues",
+    "issue": "Source abbreviation 'ערוה\"ב' expanded as 'ערוך השלחן ברורה' - this expansion may be incorrect. The abbreviation could refer to a different work."
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "טז",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "יז",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "יח",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "יט",
+    "rating": "Minor Issues",
+    "issue": "Source lists 'רקנטי' as a separate source, but the book text says 'כנסת יחזקאל פ׳ עקב בשם רקנטי' - the Rekanti is cited within Knesset Yechezkel, not independently."
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "כ",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "כא",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "כב",
+    "rating": "Minor Issues",
+    "issue": "Source field adds '(על תהלים)' after שומר טוב and expands 'ש׳' to '(מערכת ש׳)' - these additions are not in the original text which just says 'שומר טוב' and 'דבש לפי ש׳'."
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "כג",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "כד",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "כה",
+    "rating": "Minor Issues",
+    "issue": "Reason adds interpretive elaboration ('כאשר הקטנים רואים שהשומרי תורה מצליחים...יש בכך עידוד וחיזוק לליבם') not found in the source text."
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "כו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "א",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "ג",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "ה",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "ז",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "ח",
+    "rating": "Minor Issues",
+    "issue": "Reason adds 'מפני שתועלתן ניכרת מיד בין הבריות' which is not in the source text. The source simply says these mitzvot are included in gemilut chasadim."
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "ט",
+    "rating": "Minor Issues",
+    "issue": "Reason adds interpretive logic ('נוגעות לסדר החיים בעולם הזה...כמידה כנגד מידה') not present in the source text."
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "י",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "יא",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "יב",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "יג",
+    "rating": "Minor Issues",
+    "issue": "Reason adds 'כוח הזכות של הרבים גדול יותר מזכות היחיד' and 'שאין הקב\"ה מקפח שכר ציבור' which are not in the source text. The source simply states that merit of the many brings blessings in olam hazeh."
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "טו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "טז",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "יז",
+    "rating": "Minor Issues",
+    "issue": "Reason adds 'שמעלתו גדולה בכך שמחשיב מה שאחרים מזלזלים בו' which is not in the source text, which just describes which mitzvot these are."
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "יח",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "יט",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "כא",
+    "rating": "Minor Issues",
+    "issue": "Reason adds 'מידה כנגד מידה' reasoning not present in the source text. The source merely says that keeping such mitzvot for Hashem's sake earns the promise of 'ושמר ה' את הברית ואת החסד'."
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "כב",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "כג",
+    "rating": "Minor Issues",
+    "issue": "Reason adds 'מורה על דרגת נבואה גבוהה ובהירות מיוחדת בגילוי הדבר' which is interpretive content not stated in the source text. The source simply says a mitzva revealed by Moshe in 'zeh hadavar' gets schar."
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "לט",
+    "rating": "Major",
+    "issue": "Reason fabricated. Source only states the conclusion 'בעל תשובה... דיש לו שכר בעוה״ז' without giving a reason. Index invents 'מכיוון שבעל תשובה שב מחטאיו ותיקן מעשיו' as an explanation."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שלום",
+    "number": "צט",
+    "rating": "Major",
+    "issue": "Reason is fabricated. The source text (Peah 1:1) simply lists 'bringing peace between people' among things whose fruits are eaten in this world. The index reason adds content not in the source: 'השלום הוא יסוד גדול בקיום העולם והמביא שלום בין בני אדם מתקן את העולם' — none of this appears in the original text."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שלום",
+    "number": "ק",
+    "rating": "Major",
+    "issue": "Reason is fabricated. The source text simply states that one who greets others first is led by God in this world's life. The index reason adds: 'כי השלום מביא ברכה וחיים' which is not in the source. Also, the source citation 'דרך ארץ זוטא פרק השלום' expands the abbreviation 'ד\"א זוטא' differently from the original — minor normalization but acceptable. The main issue is the fabricated reasoning."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שלום",
+    "number": "קא",
+    "rating": "Major",
+    "issue": "Reason is fabricated. The source text simply states that one who returns peace greetings is led by God in this world. The index reason adds elaborate content not in the source: 'השלום הוא יסוד גדול בקיום העולם, ומי שמרבה שלום בין הבריות זוכה לשכר מיידי בעולם הזה כי השלום מביא ברכה לעולם' — entirely fabricated reasoning."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שלום",
+    "number": "קג",
+    "rating": "Major",
+    "issue": "Reason is fabricated. The source text simply says that one who loves peace is led by God in this world. The index reason adds: 'השלום הוא יסוד קיום העולם, ומי שמרבה שלום בין הבריות זוכה להנהגה טובה מהקב\"ה כבר בעולם הזה, שהשלום מביא ברכה לעולם' — none of this is in the source text."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שלום",
+    "number": "קד",
+    "rating": "Major",
+    "issue": "Reason is fabricated. The source text (Chasam Sofer Pinchas) says Pinchas was silent during conflict and received the covenant of peace and eternal priesthood. The index reason adds content not in the source: 'מידת השתיקה בשעת מריבה היא מעלה גדולה המביאה שלום' and 'הקב\"ה משלם לו מידה כנגד מידה בברית שלום ושכר נצחי לו ולזרעו בעולם הזה'. The midah-keneged-midah framing is not in the original."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "פט",
+    "rating": "Major",
+    "issue": "Reason fabricates 'שהרי אין שכר מצוה בהאי עלמא אלא למי שאינו מחויב' - this principle is not stated in the source; source discusses מצוות שהזמן גרמא generally, not specifically about exempted women getting schar"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "צב",
+    "rating": "Major",
+    "issue": "Reason fabricates 'האפיקומן הוא זכר לקרבן פסח ויש בו סגולה מיוחדת להמשיך שכר מצוה לעולם הזה' - source text simply states the afikoman leads to schar in olam hazeh without giving any reason"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "צד",
+    "rating": "Major",
+    "issue": "Reason fabricates the distinction 'כמצווה ועושה' vs 'כמי שאינו מצווה ועושה' - not found in source text which simply discusses מצוות שהזמן גרמא having schar in this world"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "אהבה ויראה",
+    "number": "צט",
+    "rating": "Major",
+    "issue": "Reason fabricates entire explanatory mechanism ('שאין השכר פוגם בה, שאינו עובד על מנת לקבל פרס, ולכן אין חשש שקבלת השכר בעוה\"ז תגרע ממעלתו') - source simply states that one who serves from love CAN receive reward in olam hazeh without giving any reason"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "אהבה ויראה",
+    "number": "ק",
+    "rating": "Major",
+    "issue": "Incomplete index entry: summary=True, reason=False, source=False"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "עוה״ז",
+    "number": "קא",
+    "rating": "Major",
+    "issue": "Reason fabricates 'אין עבודתו בשלמות כעובד מאהבה' and 'ולא שומר לו לעולם הבא' - source simply says it's possible Hashem gives reward in olam hazeh without these negative characterizations"
+  }
+]

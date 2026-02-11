@@ -1,0 +1,289 @@
+[
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "פד",
+    "rating": "Minor",
+    "issue": "Reason adds 'כשאר מצוות שמשתלמות בהאי עלמא' which is not stated in the source text"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "פה",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive language 'שהמכבד את השבת ביציאתה זוכה לפרנסה תמידית כשכר על כך' not found in source; source simply states the promise without explaining why"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "פו",
+    "rating": "Minor",
+    "issue": "Reason adds 'כי הקב\"ה מחזיר לו מה שמוציא לכבוד יום טוב' - interpretive addition; the Gemara source says 'אם מוסיף מוסיפין לו' without this specific explanation"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "פז",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "פח",
+    "rating": "Minor",
+    "issue": "Reason's final clause 'הרי שההנאה הגופנית עצמה נעשית שכר בעולם הזה' is an interpretive addition; source simply says there is schar in olam hazeh without specifying this mechanism"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "פט",
+    "rating": "Major",
+    "issue": "Reason fabricates 'שהרי אין שכר מצוה בהאי עלמא אלא למי שאינו מחויב' - this principle is not stated in the source; source discusses מצוות שהזמן גרמא generally, not specifically about exempted women getting schar"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "צא",
+    "rating": "Minor",
+    "issue": "Reason adds 'אין להן שכר בעולם הבא כמחויבות' which is not in the source text; source simply states that מצוות שהזמן גרמא have שכר בהאי עלמא"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "צב",
+    "rating": "Major",
+    "issue": "Reason fabricates 'האפיקומן הוא זכר לקרבן פסח ויש בו סגולה מיוחדת להמשיך שכר מצוה לעולם הזה' - source text simply states the afikoman leads to schar in olam hazeh without giving any reason"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "צג",
+    "rating": "Minor",
+    "issue": "Reason rephrases awkwardly with 'אין לה אכילת פירות בעולם הבא בלבד' which misrepresents the source; source says these mitzvos were written 'עבור חיי העוה\"ז' and therefore have schar in olam hazeh"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "צד",
+    "rating": "Major",
+    "issue": "Reason fabricates the distinction 'כמצווה ועושה' vs 'כמי שאינו מצווה ועושה' - not found in source text which simply discusses מצוות שהזמן גרמא having schar in this world"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "צה",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "צו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "צז",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "צח",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "אהבה ויראה",
+    "number": "צט",
+    "rating": "Major",
+    "issue": "Reason fabricates entire explanatory mechanism ('שאין השכר פוגם בה, שאינו עובד על מנת לקבל פרס, ולכן אין חשש שקבלת השכר בעוה\"ז תגרע ממעלתו') - source simply states that one who serves from love CAN receive reward in olam hazeh without giving any reason"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "אהבה ויראה",
+    "number": "ק",
+    "rating": "Major",
+    "issue": "Incomplete index entry: summary=True, reason=False, source=False"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "עוה״ז",
+    "number": "קא",
+    "rating": "Major",
+    "issue": "Reason fabricates 'אין עבודתו בשלמות כעובד מאהבה' and 'ולא שומר לו לעולם הבא' - source simply says it's possible Hashem gives reward in olam hazeh without these negative characterizations"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "עוה״ז",
+    "number": "קב",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "עוה״ז",
+    "number": "קג",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "אמונה",
+    "number": "קו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "אמונה",
+    "number": "קז",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "אמונה",
+    "number": "קח",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "אמונה",
+    "number": "קט",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "אמונה",
+    "number": "קי",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קיב",
+    "rating": "Major",
+    "issue": "Reason fabricates 'שהיא משלבת גמילות חסד עם תמיכה בתורה' - source does not explain WHY tzedaka to poor talmidei chachamim earns reward in olam hazeh, only states it as fact"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קיד",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קטו",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive content 'מעלת מצוותו גדולה יותר ולכן ראוי' not found in source text which simply states the reward without explanation"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קטז",
+    "rating": "Minor",
+    "issue": "Reason fabricates 'מראה שחפצו ורצונו בצדקה באמת ולא רק מפני שנזדמן לו' - source only states the scenario and the greatness of reward without explaining why"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קיז",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קיח",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קיט",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכ",
+    "rating": "Major",
+    "issue": "Reason fabricates 'ולא מחמת קיום מצות ה' לשמה, אין שכרו נשמר לעולם הבא' - source simply says giving from compassion earns reward in olam hazeh; it does NOT imply this is lesser or that reward is ONLY in olam hazeh"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכא",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכב",
+    "rating": "Minor",
+    "issue": "Reason adds 'שמדה כנגד מדה הנותן לאחרים זוכה לקבל' which is not in the source text"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכג",
+    "rating": "Minor",
+    "issue": "Reason adds 'שבהן יש תועלת מעשית בעולם הזה' as an explanatory clause not found in the source"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכד",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכה",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכז",
+    "rating": "Minor",
+    "issue": "Reason adds 'שמפאת חשיבותה וגודל מעלתה' as explanation - source (Peah) simply lists gemilut chasadim among items earning reward in olam hazeh without giving this reason"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכח",
+    "rating": "Minor",
+    "issue": "Reason adds 'חסד של אמת שאין המת יכול לגמול' which is a general concept but not stated in the cited source text; also summary has 'כרות' which appears to be a corruption/typo"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכט",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive content 'עניינן תיקון החיים בעולם הזה' and 'בברכות גשמיות המתאימות לטבע מצוות אלו' not found in source which simply states the fact"
+  }
+]

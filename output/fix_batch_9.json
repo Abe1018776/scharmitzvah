@@ -1,0 +1,86 @@
+[
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכח",
+    "rating": "Minor",
+    "issue": "Reason adds 'חסד של אמת שאין המת יכול לגמול' which is a general concept but not stated in the cited source text; also summary has 'כרות' which appears to be a corruption/typo"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכט",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive content 'עניינן תיקון החיים בעולם הזה' and 'בברכות גשמיות המתאימות לטבע מצוות אלו' not found in source which simply states the fact"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קלא",
+    "rating": "Minor",
+    "issue": "Reason fabricated: The source (שבת קכז.) simply lists דן חבירו לכף זכות among 6 things one benefits from in this world. The index reason introduces 'מידה כנגד מידה' reasoning that is not present in the source text."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קלב",
+    "rating": "Minor",
+    "issue": "Reason partially fabricated: The source says the reward in this world is for the 'מילי' (words of praise to the groom/bride). The index reason adds 'שמחת חתן וכלה היא מצוה שתועלתה ניכרת בעולם הזה' which is not in the source. Also source citation slightly altered: book has 'ויעב״ץ ברכות ו:' but index has 'ויעב\"ץ על ברכות ו:' (added word 'על')."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קלד",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source simply says the reward in this world is for raising one's voice so listeners cry. The index reason elaborates 'עיקר שכר הלוויה אינו על עצם ההשתתפות' which is an inference not stated in the source."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "חינוך",
+    "number": "קלז",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source says 'שפיר הקב״ה יכול ליתן השכר בעוה״ז' but the index reason adds 'אין חשש שהשכר בעוה\"ז יסיט אותם מן הדרך הישרה' which is an interpretive addition not present in the source text."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "רצון והשתוקקות",
+    "number": "א",
+    "rating": "Minor",
+    "issue": "Reason adds content: The sources simply state that for the desire/yearning to fulfill mitzvot there is reward in this world. The index reason adds 'הרצון הטוב לקיים המצוה הוא ענין בפני עצמו הנפרד ממעשה המצוה גופא' and 'אין זה גורע משכר המצוה עצמה המשתלם בעולם הבא' — these explanatory mechanisms are not present in any of the four source texts."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "רצון והשתוקקות",
+    "number": "ב",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source says 'שימתין על המצוה' (wait for the mitzvah) and 'כשיושב ומצפה על המצוה מחמת אהבת ה׳'. The index reason adds 'נחשבת כשמירת המצוה' which is not explicitly stated in the source. The first source uses 'תשמרו' but the leap to calling the waiting 'שמירת המצוה' is an interpretation."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "מקבל",
+    "number": "ז",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source simply says that when one goes to a place for a mitzvah to come his way, there is reward in this world. The index reason adds 'טרחה יתירה זו מזכה אותו בשכר... שלא כמי שהמצוה באה לפניו מאליה' — the contrast with someone who has the mitzvah come to them is not in this source text (though it may be inferred from context of adjacent entries)."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "מקבל",
+    "number": "ח",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source says the person prepares himself and 'מהדר אחריה לעשותו כראוי וכנכון בכל פרטיה ודקדוקיה' and receives reward. The index reason adds 'חיבוב מצוה יתירה' which is not in the source text."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "ממציא עצמו",
+    "number": "ו",
+    "rating": "Minor",
+    "issue": "Source citation minor discrepancy: Book has 'קדושת ציון דף קי״ו' but index has 'קדושת ציון דף קט״ז'. The page number differs (קי״ו = 116 vs קט״ז = 197). The reason is a reasonable synthesis of multiple sources but adds the explanatory framing about רוחני/גשמי that comes mostly from the last source (ואת לרבות)."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "טירחא",
+    "number": "יג",
+    "rating": "Minor",
+    "issue": "Reason adds content: Source says 'שטרח לילך ולשמוע וללמוד וללמד המצוה מפי החכם כדי לעשותה כתיקונה, מגיע לו שכר'. The index reason adds 'מוסיפה מעלה יתירה על עצם קיום המצוה' which is an interpretive addition. Also minor source citation: book has 'ובאר מנחם ראה' but index has 'באר מנחם (פרשת ראה)' — dropped the leading ו."
+  }
+]

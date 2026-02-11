@@ -1,0 +1,86 @@
+[
+  {
+    "chapter": "פרק שלישי",
+    "section": "תורה",
+    "number": "לז",
+    "rating": "Minor",
+    "issue": "Reason adds 'מה שאין כן בלימוד שלא לשמה שאין בו מעלה זו' — source says schar in olam hazeh for Torah applies only to lishmah learning, but the index adds a contrasting explanation about shelo lishmah that is not in the source text."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "פד",
+    "rating": "Minor",
+    "issue": "Reason adds 'כשאר מצוות שמשתלמות בהאי עלמא' which is not stated in the source text"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "פה",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive language 'שהמכבד את השבת ביציאתה זוכה לפרנסה תמידית כשכר על כך' not found in source; source simply states the promise without explaining why"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "פו",
+    "rating": "Minor",
+    "issue": "Reason adds 'כי הקב\"ה מחזיר לו מה שמוציא לכבוד יום טוב' - interpretive addition; the Gemara source says 'אם מוסיף מוסיפין לו' without this specific explanation"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "פח",
+    "rating": "Minor",
+    "issue": "Reason's final clause 'הרי שההנאה הגופנית עצמה נעשית שכר בעולם הזה' is an interpretive addition; source simply says there is schar in olam hazeh without specifying this mechanism"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "צא",
+    "rating": "Minor",
+    "issue": "Reason adds 'אין להן שכר בעולם הבא כמחויבות' which is not in the source text; source simply states that מצוות שהזמן גרמא have שכר בהאי עלמא"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "צג",
+    "rating": "Minor",
+    "issue": "Reason rephrases awkwardly with 'אין לה אכילת פירות בעולם הבא בלבד' which misrepresents the source; source says these mitzvos were written 'עבור חיי העוה\"ז' and therefore have schar in olam hazeh"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קטו",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive content 'מעלת מצוותו גדולה יותר ולכן ראוי' not found in source text which simply states the reward without explanation"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קטז",
+    "rating": "Minor",
+    "issue": "Reason fabricates 'מראה שחפצו ורצונו בצדקה באמת ולא רק מפני שנזדמן לו' - source only states the scenario and the greatness of reward without explaining why"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכב",
+    "rating": "Minor",
+    "issue": "Reason adds 'שמדה כנגד מדה הנותן לאחרים זוכה לקבל' which is not in the source text"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכג",
+    "rating": "Minor",
+    "issue": "Reason adds 'שבהן יש תועלת מעשית בעולם הזה' as an explanatory clause not found in the source"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכז",
+    "rating": "Minor",
+    "issue": "Reason adds 'שמפאת חשיבותה וגודל מעלתה' as explanation - source (Peah) simply lists gemilut chasadim among items earning reward in olam hazeh without giving this reason"
+  }
+]

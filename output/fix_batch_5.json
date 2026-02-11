@@ -1,0 +1,86 @@
+[
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "לו",
+    "rating": "Minor",
+    "issue": "Reason adds 'כדי להאבידו מן העולם הבא ולא יהיה לו זכות שם' which, while part of the broader Rashi, is not explicitly quoted in the source text provided."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "זמנים מסויימים",
+    "number": "מ",
+    "rating": "Minor",
+    "issue": "Source citation lists 'מסילות נפש' as a separate source, but in the text 'בעל מסילות נפש' refers to the author, not a separate source. The actual source is only 'שארית מנחם פרשת עקב'."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "זמנים מסויימים",
+    "number": "מב",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive content 'כמו הנשמה' and 'הן בבחינת גשמיות ורוחניות כאחד' not in the source. Source only says the body becomes holy on Shabbat."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קיח",
+    "rating": "Minor",
+    "issue": "The index reason adds 'ייחוד מצוה אחת ושמירתה בקביעות מוחלטת ללא שום עבירה עליה מעולם מראה על מסירות מיוחדת' — the source text does not explain why this brings reward in olam hazeh, it just states the fact. The added explanation about 'מסירות מיוחדת' is an editorial addition not found in the source."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קכא",
+    "rating": "Minor",
+    "issue": "The index reason adds 'אין חשש שיתקלקל על ידי עשירות' and 'בלא נזק רוחני' — the source text simply says someone content with little gets wealth. The reasoning about spiritual damage risk is an inference not explicitly stated in the source."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קכב",
+    "rating": "Minor",
+    "issue": "The index reason adds 'אין בכלל חשש של כליון שכרו' which is not in the source text. The source says he is not part of this world (אינו שייך כלל להאי עלמא) and therefore receives reward — the index adds an explanation about 'כליון שכרו' that is not in the original."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קכג",
+    "rating": "Minor",
+    "issue": "The index reason says 'מידה כנגד מידה נותנין לו שכרו בעולם הזה נוסף על עולם הבא' — the source text does not mention midah keneged midah. The source simply says that someone who learns wisdom from everything receives reward in olam hazeh as well. The midah-keneged-midah framing is editorial."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קכד",
+    "rating": "Minor",
+    "issue": "The index reason mentions 'רגליהם רצות להיטיב לאחיהם' which is in the source, but the initial framing 'התורה הבטיחה בלשון רבים ועבדתם לעוסקים בצרכי הכלל' slightly reinterprets the source. The source says the Torah used plural language, but the index presents the connection more assertively. Minor editorial embellishment."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קכח",
+    "rating": "Minor",
+    "issue": "The index reason adds 'שאין זה מן קרן המצוות אלא ברכה מיוחדת שבידו לתת' which is not in the source. The source says children are in God's hands alone and therefore reward can be given in olam hazeh — the index adds the distinction about 'keren hamitzvot' which is editorial."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קל",
+    "rating": "Minor",
+    "issue": "The index reason adds 'שהרי האדם עצמו מקיים דבריו בעולם הזה וממילא גם שכרו ניתן כאן' — while the source does mention midah keneged midah, the specific logical connection 'since the person fulfills his words in this world, the reward is also given here' is an editorial expansion. The source (Chakal Yitzchak) says it differently: 'אפילו בהאי עלמא לא הוי אגר נטר'."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קלד",
+    "rating": "Minor",
+    "issue": "The source text is very terse: 'דכיון בחיוב גופן אפילו אינו לשמה מגיע לו שכר בעוה\"ז'. The index reason expands this to 'נדר יוצר חיוב גופני על האדם, ולכן אף כשאינו מכוון לשמה, עצם קיום החיוב הגופני מזכהו בשכר' and adds 'שהרי הגוף עצמו מחויב במצוה' — this last phrase is editorial expansion not in the source."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קלה",
+    "rating": "Minor",
+    "issue": "The index reason adds 'מעלת מסירותו יתירה ולכן זוכה לשכר בשני העולמות' — the source text says he could eat/drink and enjoy but chooses Torah and his reward is great. The reasoning about 'מעלת מסירותו יתירה' as the causal mechanism is an editorial inference, though it is a reasonable one."
+  }
+]

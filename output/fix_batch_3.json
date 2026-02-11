@@ -1,0 +1,86 @@
+[
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קיב",
+    "rating": "Major",
+    "issue": "Reason fabricates 'שהיא משלבת גמילות חסד עם תמיכה בתורה' - source does not explain WHY tzedaka to poor talmidei chachamim earns reward in olam hazeh, only states it as fact"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "צדקה וגמילות חסדים",
+    "number": "קכ",
+    "rating": "Major",
+    "issue": "Reason fabricates 'ולא מחמת קיום מצות ה' לשמה, אין שכרו נשמר לעולם הבא' - source simply says giving from compassion earns reward in olam hazeh; it does NOT imply this is lesser or that reward is ONLY in olam hazeh"
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "מקבל",
+    "number": "ה",
+    "rating": "Major",
+    "issue": "Source text is just a page header 'פט שכר מצוה פרק ששי' with no substantive content. The index fabricates both a summary and a reason ('כיון שקיבל על עצמו לקיים המצוה מבעוד מועד, הרי גילה דעתו שחפץ במצוה ומסור לקיומה, ולכן ראוי שיקבל שכרו מיד') that have no basis in the source. The source field 'שכר מצוה פרק ששי' is a page reference not a citation."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "לשם המצוה",
+    "number": "מט",
+    "rating": "Major",
+    "issue": "The source text in book_parsed is truncated/garbled: 'יכלה בבני ישראל וכו׳ ומרדכי בשער המלך, פנחס)'. The index entry fabricates an elaborate reason about פנחס שקנא לה׳ and מרדכי שעמד בשער המלך להציל את ישראל, and the source citation lists 'פנחס (במדבר כה), מרדכי בשער המלך (מגילת אסתר)' — treating the source name 'מרדכי בשער המלך' as if it refers to the biblical Mordechai, when it is actually the name of a sefer. The original source is simply 'מרדכי בשער המלך, פנחס' (a single book). Both the reason and source citations are fabricated/misinterpreted."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "זכות אבות",
+    "number": "א",
+    "rating": "Minor",
+    "issue": "Source citation says 'החיד\"א כסא דוד' but the book text says 'פרדס יוסף פנחס, בשם כסא דוד' - the attribution to the Chida is not in the source text."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "כבוד שמים",
+    "number": "כא",
+    "rating": "Minor",
+    "issue": "The reason elaborates that 'הרמת כבוד ה' בגוים היא פעולה הנראית ומתגלית בעולם הזה' - this interpretive reasoning is not stated in the source text, which simply says 'ראוי שישלם לך שכר פעולתך בעוה\"ז' without explaining why."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "כבוד שמים",
+    "number": "כג",
+    "rating": "Minor",
+    "issue": "Reason elaborates beyond source. Source simply says 'מטעם קידוש ה' נותן שכר בהאי עלמא', while index adds interpretive detail about 'כשהשכר ניתן לעיני הבריות מתקדש שם שמים שרואים שהקב\"ה משלם שכר' - this mechanism is not in the source text."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לב",
+    "rating": "Minor",
+    "issue": "Reason adds 'זכותם תלויה בו ושכרו מרובה' which is not stated in the source text. The source simply says the one who merited the many receives reward in this world without specifying this mechanism."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לג",
+    "rating": "Minor",
+    "issue": "Reason adds interpretation not in source. Source says 'מגיע לו שפיר שכרו גם בעוה\"ז' without elaborating why. Index adds 'כיון שפעולתו גרמה... הרי זכותו מתרבה ומתפשטת' which is editorial interpretation."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לד",
+    "rating": "Minor",
+    "issue": "Reason is fabricated/elaborated. Source only states 'מי שמעורר ומוכיח אחרים מגיע לו שכר מצותיו בעוה\"ז' without any reasoning. Index invents reasoning about זכויותיהם נזקפות גם לזכותו which is not in the source."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לה",
+    "rating": "Minor",
+    "issue": "Reason adds fabricated reasoning 'כדין מצוות שבין אדם לחבירו' which is not in the source text. Source simply says 'וממילא מגיע לו שכר בהאי עלמא' without explaining it as a bein adam lachavero category."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לו",
+    "rating": "Minor",
+    "issue": "Reason elaborates beyond source. Source states the conclusion without reasoning. Index adds 'אינו רק מקיים מצוה בעצמו אלא גורם זכות לרבים' which is editorial interpretation."
+  }
+]

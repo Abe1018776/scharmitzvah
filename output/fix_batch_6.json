@@ -1,0 +1,86 @@
+[
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קלו",
+    "rating": "Minor",
+    "issue": "The index reason adds 'שכר של אריכות ימים בארץ ישראל הוא שכר מיוחד שהתורה עצמה הבטיחתו, ולכן מותר לכוון לקבלו ואין זה בגדר עובד על מנת לקבל פרס הרגיל'. The source text simply says 'מותר לעבוד ע\"מ שיזכה להאריך ימים... דבשביל שכר זה מותר לעבוד'. The distinction about 'eved al menat lekabel pras haragil' is editorial addition."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קלז",
+    "rating": "Minor",
+    "issue": "The index reason adds 'מגיע לו שכר מיוחד גם בעולם הזה בשל המאמץ והמלחמה שנלחם כנגד טבעו'. The source text is very terse: 'כי השכר שפעולתו הוא בניגוד יש לו שכר גם בעוה\"ז'. The elaboration about 'מאמץ ומלחמה שנלחם כנגד טבעו' is editorial expansion."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קמ",
+    "rating": "Minor",
+    "issue": "The index reason says 'כיון שרבים צריכים לו ותלויים בו, ממילא מגיע לו כבוד והצלחה בעולם הזה כדי שיוכל לספק צרכיהם ולהועיל להם'. The source simply says 'כי רבים צריכים לו וממילא מגיע לו כה\"ע'. The elaboration about 'כדי שיוכל לספק צרכיהם ולהועיל להם' is editorial addition, adding a teleological reason not in the source."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "שונות",
+    "number": "קמד",
+    "rating": "Minor",
+    "issue": "The index reason adds 'אף שסומא פטור מן המצוות, מכל מקום במצוות שיכול לקיימן שפיר זוכה לשכר בעולם הזה'. The source text does not mention exemption from mitzvot — it simply states that a blind person can fulfill mitzvot and receive reward of life and length of days. The framing about exemption is editorial addition."
+  },
+  {
+    "chapter": "פרק ראשון",
+    "section": "על פרטים שבכל מצוה",
+    "number": "ג",
+    "rating": "Minor",
+    "issue": "The index reason says 'מצות המילה יוצרת קשר מיוחד של אהבה ועזרה מהקב\"ה, ומכוח קשר זה נמשך שכר בעולם הזה'. The source text says 'השכר מלוה בהאי עלמא הני׳ בתורה כ״פ מצד מצות המלות ואהבתו ועזרתו' — likely 'המלות' should be read as 'המילות' (the words/utterances), not necessarily 'המילה' (circumcision). The index may have misread the source, interpreting 'מצות המלות' as 'מצות המילה' rather than 'מצד מצות המילות' (from the aspect of the words/commands). This could be a misinterpretation."
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "כד",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive content not explicit in source. Source says the sin was Zimri's free choice so the mitzvah of Pinchas was also by free choice, hence schar is due by din. Index reason adds 'ממילא גם המצוה שנגרמה על ידה אינה מן השמים אלא זכות עצמית' which is a reasonable paraphrase but adds 'ולא בתורת חסד' not in source."
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "כו",
+    "rating": "Minor",
+    "issue": "Reason adds 'מידה כנגד מידה' concept not explicitly stated in source. Source simply says Hashem will send blessing in their handiwork. The midah-kneged-midah framing is an interpretive addition."
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "כז",
+    "rating": "Minor",
+    "issue": "Reason adds 'אין כאן דין שליחות ואין לומר שלוחו של אדם כמותו' which is not in the source text. Source discusses la talin and the idea that no one else could do the mitzvah, but the shlichus framing is added by the index."
+  },
+  {
+    "chapter": "פרק שני",
+    "section": "",
+    "number": "כח",
+    "rating": "Minor",
+    "issue": "Reason adds 'מצוה שרבים נכשלים בה ומעטים עומדים בה מעידה על מסירות יתירה ועמידה בניסיון מיוחד' which is interpretive elaboration. Source simply states the fact that schar in olam hazeh is given for a unique mitzvah that most fail at, without explaining why this is the mechanism."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "מ״ע ול״ת מיוחדות",
+    "number": "ב",
+    "rating": "Minor",
+    "issue": "Summary says 'יש בהן שכר מצוה בעולם הזה לנשים' — the source discusses mitzvos aseh shehazman grama generally regarding women being exempt, but does not say women specifically receive schar in olam hazeh. The phrasing 'לנשים' in the summary is misleading — the source says these mitzvos have schar in olam hazeh generally."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "מ״ע ול״ת מיוחדות",
+    "number": "ה",
+    "rating": "Minor",
+    "issue": "Reason adds 'מידה כנגד מידה' concept not present in source. Source only says the one who is zahir in mezuzah and checks it regularly merits a nice dwelling. The midah-kneged-midah reasoning is fabricated."
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "מ״ע ול״ת מיוחדות",
+    "number": "ו",
+    "rating": "Minor",
+    "issue": "Reason adds 'מדה כנגד מדה: המחבב את המזוזה שבפתח ביתו ומנשקה' — source text only states the fact that one who kisses the mezuzah merits a nice dwelling. The midah-kneged-midah reasoning is not in the source."
+  }
+]

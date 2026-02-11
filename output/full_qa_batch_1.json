@@ -1,0 +1,289 @@
+[
+  {
+    "chapter": "פרק חמישי",
+    "section": "זכות אבות",
+    "number": "א",
+    "rating": "Minor",
+    "issue": "Source citation says 'החיד\"א כסא דוד' but the book text says 'פרדס יוסף פנחס, בשם כסא דוד' - the attribution to the Chida is not in the source text."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "זכות אבות",
+    "number": "ג",
+    "rating": "Major",
+    "issue": "Multiple errors: (1) Summary 'כלל ישראל שקיבלו את התורה' doesn't match the source which is about שכר ממתין ליוצאי חלציו. (2) Reason about מציל מזוטו של ים is fabricated - not in this source (appears to come from entry ז in ישראל section). (3) Source citation 'טללי אורות ואתחנן' is wrong - should be 'פנינים משולחן הגר\"א, עקב'."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "זכות אבות",
+    "number": "ה",
+    "rating": "Major",
+    "issue": "Multiple errors: (1) Source citation 'זרע בירך פר' עקב, הובא בדורש טוב סג' is wrong - book says 'בית אשר בחוקותי'. (2) Summary about עובדים מאהבה בבחינת בן doesn't match source about walking among mocking nations. (3) Reason about עבד vs בן distinction is fabricated - not in this source (appears to belong to entry יב in יסורים section)."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "ישראל",
+    "number": "ו",
+    "rating": "Major",
+    "issue": "Multiple errors: (1) Summary 'המקבל יסורים מאהבה' doesn't match source about דין הרבים שהעולם נידון בכללו. (2) Source citation 'זרע שמשון פר' עקב' is wrong - book says 'קומץ המנחה, ראה'. (3) Reason referencing ברכות ה. is fabricated."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "ישראל",
+    "number": "ז",
+    "rating": "Major",
+    "issue": "Multiple errors: (1) Summary about מקדש שמו ומזכה הרבים doesn't match source about Torah acceptance as מציל מן הנהר. (2) Source 'חת\"ס פר' פנחס' is wrong - book says 'טללי אורות, ואתחנן'. (3) Reason about מזכה הרבים אין חטא בא על ידו is fabricated."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "ישראל",
+    "number": "ט",
+    "rating": "Major",
+    "issue": "Multiple errors: (1) Source citation 'שארית מנחם פרשת בחוקותי' is wrong - book says 'דודאים בשדה ראה'. (2) Summary about נח\"ר להשי\"ת doesn't match source about ישראל מקושרים במחזות הבורא. (3) Reason about קבלת השכר הוא בעצם מצוה is fabricated."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "ישראל",
+    "number": "י",
+    "rating": "Major",
+    "issue": "Summary 'המזכה את הרבים' is completely wrong - the source is about God's desire that Israel should benefit from this world. Reason about חוץ למצוה is fabricated and doesn't match the source content."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "ישראל",
+    "number": "יד",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "יסורים",
+    "number": "טו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "יסורים",
+    "number": "יב",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "כבוד שמים",
+    "number": "יח",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "כבוד שמים",
+    "number": "יט",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "כבוד שמים",
+    "number": "כ",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "כבוד שמים",
+    "number": "כא",
+    "rating": "Minor",
+    "issue": "The reason elaborates that 'הרמת כבוד ה' בגוים היא פעולה הנראית ומתגלית בעולם הזה' - this interpretive reasoning is not stated in the source text, which simply says 'ראוי שישלם לך שכר פעולתך בעוה\"ז' without explaining why."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "כבוד שמים",
+    "number": "כב",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "כבוד שמים",
+    "number": "כג",
+    "rating": "Minor",
+    "issue": "Reason elaborates beyond source. Source simply says 'מטעם קידוש ה' נותן שכר בהאי עלמא', while index adds interpretive detail about 'כשהשכר ניתן לעיני הבריות מתקדש שם שמים שרואים שהקב\"ה משלם שכר' - this mechanism is not in the source text."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "כבוד שמים",
+    "number": "כד",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "כבוד שמים",
+    "number": "כה",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "כו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "כז",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "כח",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "כט",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "ל",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לא",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לב",
+    "rating": "Minor",
+    "issue": "Reason adds 'זכותם תלויה בו ושכרו מרובה' which is not stated in the source text. The source simply says the one who merited the many receives reward in this world without specifying this mechanism."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לג",
+    "rating": "Minor",
+    "issue": "Reason adds interpretation not in source. Source says 'מגיע לו שפיר שכרו גם בעוה\"ז' without elaborating why. Index adds 'כיון שפעולתו גרמה... הרי זכותו מתרבה ומתפשטת' which is editorial interpretation."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לד",
+    "rating": "Minor",
+    "issue": "Reason is fabricated/elaborated. Source only states 'מי שמעורר ומוכיח אחרים מגיע לו שכר מצותיו בעוה\"ז' without any reasoning. Index invents reasoning about זכויותיהם נזקפות גם לזכותו which is not in the source."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לה",
+    "rating": "Minor",
+    "issue": "Reason adds fabricated reasoning 'כדין מצוות שבין אדם לחבירו' which is not in the source text. Source simply says 'וממילא מגיע לו שכר בהאי עלמא' without explaining it as a bein adam lachavero category."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לו",
+    "rating": "Minor",
+    "issue": "Reason elaborates beyond source. Source states the conclusion without reasoning. Index adds 'אינו רק מקיים מצוה בעצמו אלא גורם זכות לרבים' which is editorial interpretation."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לז",
+    "rating": "Minor",
+    "issue": "Reason adds 'שהיא יסוד העבודה' which is not in the source text. Source says 'גרמו להגדיל האמונה בלב ישראל ע\"כ זכו לקבל שכרם בעוה\"ז' without characterizing אמונה as יסוד העבודה."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לח",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לט",
+    "rating": "Minor",
+    "issue": "Reason adds 'זכותם של הרבים תלויה בו' which is not stated in the source. Source simply concludes 'ושפיר מגיע לו שכר בהאי עלמא'."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "מ",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "מא",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "מב",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "מג",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מחשבה ורצון",
+    "number": "מד",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מחשבה ורצון",
+    "number": "מו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מחשבה ורצון",
+    "number": "מז",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "משא ומתן",
+    "number": "מט",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "משא ומתן",
+    "number": "נא",
+    "rating": "Good",
+    "issue": null
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לז",
+    "rating": "Minor",
+    "issue": "Reason adds 'שהיא יסוד העבודה' which is not in the source text. Source says 'גרמו להגדיל האמונה בלב ישראל ע\"כ זכו לקבל שכרם בעוה\"ז' without characterizing אמונה as יסוד העבודה."
+  },
+  {
+    "chapter": "פרק חמישי",
+    "section": "מזכה הרבים",
+    "number": "לט",
+    "rating": "Minor",
+    "issue": "Reason adds 'זכותם של הרבים תלויה בו' which is not stated in the source. Source simply concludes 'ושפיר מגיע לו שכר בהאי עלמא'."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "ב",
+    "rating": "Minor",
+    "issue": "Reason mostly restates the summary. Index adds 'מדרגה מיוחדת' and 'בלא אמצעי' which are not explicitly in the source text."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "ד",
+    "rating": "Minor",
+    "issue": "Reason adds 'וכשם שזכות הרבים עומדת להם בעולם הזה' which is not explicitly stated in the source. Source only says 'כרבים דמי'."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "ו",
+    "rating": "Minor",
+    "issue": "Reason adds 'שהרי אין לו עולם הבא נפרד מעולם הזה' which is interpretive and not explicitly in the source text."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "י",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive framing 'כפיצוי על הצער הגופני' which is not in the source. Source only states the fact without explaining it as compensation."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "יג",
+    "rating": "Minor",
+    "issue": "Reason adds 'שכן מעשה צדקות מיוחד ראוי לגמול מיוחד בעולם הזה' which is a general rationale not found in the source text."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "יז",
+    "rating": "Minor",
+    "issue": "Reason adds interpretive content 'מורה על מדרגה מיוחדת של רצון אלוקי כלפי הצדיק' not found in the source text."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "כב",
+    "rating": "Minor",
+    "issue": "Reason adds interpretation 'אין השכר בעולם הזה גורע משכרם בעולם הבא, שהרי תמיד הם מוסיפים זכויות ועליות' not found in source. Source simply states 'ממילא שייך ליתן להם שכר גם בעוה״ז'."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "כה",
+    "rating": "Minor",
+    "issue": "Reason adds 'שכבר אינו עיקר שכרו' which is not stated in the source text."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "כח",
+    "rating": "Minor",
+    "issue": "Reason adds 'ואין בידו עבירות' and 'שאין צורך לדחות שכרו לעולם הבא' which are not stated in the source. Source simply cites the Gemara as proof."
+  },
+  {
+    "chapter": "פרק רביעי",
+    "section": "אנשים מסויימים",
+    "number": "לא",
+    "rating": "Minor",
+    "issue": "Source citation includes 'ספר שכר מצוה פרק רביעי' which appears to be a self-reference from a parsing artifact in the book text ('ס שכר מצוה פרק רביעי')."
+  }
+]

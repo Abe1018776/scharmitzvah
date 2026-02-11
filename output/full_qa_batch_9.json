@@ -1,0 +1,289 @@
+[
+  {
+    "chapter": "פרק ששי",
+    "section": "מסי״נ",
+    "number": "לט",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "מסי״נ",
+    "number": "מ",
+    "rating": "Minor",
+    "issue": "The reason in the index states 'מסירות נפש יוצרת מציאות של פנים חדשות, ועל ידי כך נעשה כבריה חדשה' — the source from שארית מנחם says 'ונעשה פנים חדשות וזוכה לשכר בעוה\"ז' and the source from אמרי יצחק simply says 'דעל מקי\"נ מקבל שכר בהאי עלמא'. The index reason elaborates 'שאינו נחשב כמאבד קרן לעולם הבא' which is not explicitly stated in either source text."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "מסי״נ",
+    "number": "מא",
+    "rating": "Minor",
+    "issue": "The index source lists 'זרע בירך, תפארת חיים (צו)' but the book_parsed source only cites 'תפארת חיים, צו' and mentions זרע בירך as the author who wrote about this (וכתב הזרע בירך). The זרע בירך is not a separate source citation but the author quoted within the תפארת חיים text. Minor source attribution issue."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "כולל",
+    "number": "מג",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "כולל",
+    "number": "מה",
+    "rating": "Minor",
+    "issue": "The index reason says 'שכר מצוה בעולם הזה אינו שייך כי המצוה נעשית כנגד הקב\"ה שהוא אין סוף ואין עולם הזה כדאי לשלם עבורה' — the source says 'דהוא מאוס דעשה המצוה נגד הקב\"ה לאין סוף'. The word 'מאוס' in the source is unclear/possibly a parsing error, but the index interprets it as 'אין עולם הזה כדאי לשלם' which is a reasonable interpretation. Summary and source citation are correct."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "לשם המצוה",
+    "number": "מו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "לשם המצוה",
+    "number": "מז",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "לשם המצוה",
+    "number": "מח",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "לשם המצוה",
+    "number": "מט",
+    "rating": "Major",
+    "issue": "The source text in book_parsed is truncated/garbled: 'יכלה בבני ישראל וכו׳ ומרדכי בשער המלך, פנחס)'. The index entry fabricates an elaborate reason about פנחס שקנא לה׳ and מרדכי שעמד בשער המלך להציל את ישראל, and the source citation lists 'פנחס (במדבר כה), מרדכי בשער המלך (מגילת אסתר)' — treating the source name 'מרדכי בשער המלך' as if it refers to the biblical Mordechai, when it is actually the name of a sefer. The original source is simply 'מרדכי בשער המלך, פנחס' (a single book). Both the reason and source citations are fabricated/misinterpreted."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "לשם המצוה",
+    "number": "נ",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "לשם המצוה",
+    "number": "נא",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "לשם המצוה",
+    "number": "נב",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "צער והעדר תענוג",
+    "number": "נד",
+    "rating": "Minor",
+    "issue": "The source text says 'בעושה עבירה לשמה וכו׳ מחמת שפתיך שהיה עבירה וכו׳ אינו מרגיש מתיקות בעשייתה' — referring to doing an aveira lishmah (like Yael), but the index summary and reason reframe it as 'מי שיש לו צער גדול לשם שמים בעת עשיית המצוה' without mentioning the aveira lishmah context. The index also adds 'אין לו שכר רוחני בעולם הבא מצד ההנאה' which is not stated in the source. The core idea is preserved but the nuance is shifted."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "צער והעדר תענוג",
+    "number": "נו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "צער והעדר תענוג",
+    "number": "נז",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "צער והעדר תענוג",
+    "number": "נח",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "צער והעדר תענוג",
+    "number": "נט",
+    "rating": "Minor",
+    "issue": "The index reason adds 'העמידה בניסיון של המשך בדרך התורה אף בשעת דחק מוכיחה מסירות נפש יתירה' — the source text simply says 'אבל אם אתה עושה כן, על אף העוני והדחק הנך ממשיך בדרך התורה אז תזכה לשני עולמות'. The concept of 'מסירות נפש יתירה' is added by the index and not stated in the source."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "צער והעדר תענוג",
+    "number": "ס",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "צער והעדר תענוג",
+    "number": "סא",
+    "rating": "Minor",
+    "issue": "The index reason says 'הקב\"ה מתייחס לכך כצדקה ומשלם לו מידה כנגד מידה בפרהסיא בעולם הזה'. The source says 'צדקה שהקב״ה עושה עם ישראל, הוא עושה בפרהסיא, מחמת שעושה מצות בפרהסיא' — the source says the tzedaka from Hashem is in public because the person did mitzvos in public. The index adds the concept 'מידה כנגד מידה' which is implicit but not stated. Minor embellishment."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "סב",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "סג",
+    "rating": "Minor",
+    "issue": "The index title and summary say 'צ\"ט שערי היתר' (99 gates of permissibility) but the source text says 'נ\"ט שערי היתר' (59 gates). This is a factual discrepancy — the number is wrong in the index."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "סד",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "סה",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "סו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "סז",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "סח",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "סט",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "ע",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "עא",
+    "rating": "Minor",
+    "issue": "The index source says 'קדושת לוי פרשת פנחס' but the book_parsed source citation says 'לוי פ' פנחס' (possibly truncated from קדושת לוי). The index expanded the abbreviated name, which is reasonable but not directly from the parsed text. The reason is a reasonable interpretation of the source."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "עב",
+    "rating": "Minor",
+    "issue": "The index summary says 'מי שבעת עשיית המצוה דבוק בקדושה עליונה ומופשט מעוה\"ז זוכה לשכר בעוה\"ז' but the source text actually focuses on the negative case: 'אם בעת עשיית המצוה הוא בהאי עלמא ואינו מחוסר אל הקדושה... אין לו שכר מצוה'. The index inverts the framing — the source states when there is NO schar, while the index states when there IS schar. The positive case is implied but not directly stated in the source."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "עג",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "עד",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "עה",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "עו",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "עח",
+    "rating": "Minor",
+    "issue": "The index reason says 'כשאדם עומד בנסיון ומקיים מצוות גם כשמידת הדין שולטת, הקב\"ה נותן לו שכר בעולם הזה כגמול על עמידתו באמונה למרות הקושי'. The source text says 'אם בחוקותי: אם במילת הדין ח\"ו ואעפ\"כ תלכו במצותי וכו׳ ואז ונתתי גשמיכם'. The source is more concise and simply states the conditional — if despite midat hadin you still follow, then you get reward. The index reason adds 'כגמול על עמידתו באמונה למרות הקושי' which is interpretive elaboration not in the source."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "פ",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "תוספות ברכה",
+    "number": "פא",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "שונות",
+    "number": "פב",
+    "rating": "Minor",
+    "issue": "The index reason says 'השמיעה לדעת חכמים מוסיפה שלמות בקיום המצוה, ובזכות ההשתדלות לקיימה כהלכתה מגיע לו שכר גם בעולם הזה'. The source text simply says 'על השמיעה דעת חכמים כדי לקיים המצוה ע\"ז מגיע שכר טוב גם בעוה\"ז'. The source does not explain WHY — it just states the fact. The reason 'מוסיפה שלמות בקיום המצוה' is fabricated/inferred by the index."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "שונות",
+    "number": "פג",
+    "rating": "Good",
+    "issue": null
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "שונות",
+    "number": "פד",
+    "rating": "Minor",
+    "issue": "The index reason says 'קיום המצוות על יסוד המסורת והקבלה מאבותינו הוא בגדר זכות המצדיקה קבלת שכר, שכן מקיים מתוך אמונה ונאמנות למסורת'. The source text simply says 'כל המצות שאנו מקיימים אותן מצד השמועה בדרך קבלה מאבותינו, על זה שפיר מגיע שכר'. No reason is given in the source; the index fabricated the reasoning about 'אמונה ונאמנות למסורת'."
+  },
+  {
+    "chapter": "פרק ששי",
+    "section": "שונות",
+    "number": "פה",
+    "rating": "Good",
+    "issue": null
+  }
+]
