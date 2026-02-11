@@ -1,0 +1,74 @@
+[
+  {
+    "chapter": "פרק שני",
+    "section": null,
+    "number": "יז",
+    "field": "reason",
+    "old_value": "מצות אלו נחשבות קלות ופחותות אצל אחרים, ומי שמקפיד לקיימן ונשמר בהן זוכה לשכר מיוחד בעולם הזה, שמעלתו גדולה בכך שמחשיב מה שאחרים מזלזלים בו",
+    "new_value": "לא נתבאר הטעם במקור",
+    "qa_issue": "Fabricated reason — source only describes WHAT the mitzvah is, not WHY it earns schar"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "מ״ע ול״ת מיוחדות",
+    "number": "ט",
+    "field": "summary",
+    "old_value": "מצות מילה שיש עונש כרת על ביטולה ראוי שיגיע עליה שכר בעולם הזה",
+    "new_value": "על דם מילה שיש עונש כרת על ביטולו שפיר מגיע עליו שכר בעולם הזה",
+    "qa_issue": "Summary says 'מילה' but source and title specify 'דם מילה' specifically"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "קר״ש תפלה וברכות",
+    "number": "סה",
+    "field": "reason",
+    "old_value": "עיון תפילה הוא מן הדברים החמורים שמעלתם גדולה כל כך עד שזוכה האדם ליהנות מפירותיהם בעולם הזה מבלי שיגרע שכרו העיקרי לעולם הבא",
+    "new_value": "לא נתבאר הטעם במקור",
+    "qa_issue": "Fabricated reason — source is a simple Gemara listing with no reason given"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "עח",
+    "field": "reason",
+    "old_value": "מצות קידוש היום היא מצוה חשובה שהקב״ה רואה לתת עליה שכר כבר בעולם הזה, כפי שמשמע מן הילקוט הגרשוני",
+    "new_value": "לא נתבאר הטעם במקור",
+    "qa_issue": "Fabricated reason — source only states the fact that kiddush hayom has schar, no reason given"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "שבת, מועדים וזמנים",
+    "number": "פ",
+    "field": "reason",
+    "old_value": "כיבוד השבת הוא מצוה שיש בה הנאה גופנית ומעשית בעולם הזה, ולכן שכרה ניתן בעולם הזה בדמות עשירות וברכה חומרית",
+    "new_value": "לא נתבאר הטעם במקור",
+    "qa_issue": "Fabricated reason — source is a simple Gemara statement with no reason"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "קר״ש תפלה וברכות",
+    "number": "עה",
+    "field": "reason",
+    "old_value": "אמירת מאה ברכות בכל יום מביאה שפע ברכה מרובה, ובזכות ריבוי הברכות והתמדתן בכל יום נפתח צינור של שכר גם בעולם הזה",
+    "new_value": "לא נתבאר הטעם במקור",
+    "qa_issue": "Fabricated reason — source simply states the fact without explaining WHY"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "תורה",
+    "number": "נג",
+    "field": "reason",
+    "old_value": "לימוד תורה של תינוקות שכולה זכות רב ואין בה חטא, ועל ידי זכותם הגדולה יכולים להמשיך שכר לעולם הזה",
+    "new_value": "לימוד תורה של תינוקות שכולה זכות רב, ועל ידי זכותם הגדולה יכולים להמשיך שכר לעולם הזה",
+    "qa_issue": "Phrase 'ואין בה חטא' not in source text — removed"
+  },
+  {
+    "chapter": "פרק שלישי",
+    "section": "תורה",
+    "number": "ס",
+    "field": "reason",
+    "old_value": "חיבוב תלמידי חכמים היא מעלה גדולה שבזכותה נפרעין לו שכר בעולם הזה, דהיינו זרע של קיימא ובנים הגונים",
+    "new_value": "חיבוב תלמידי חכמים היא מעלה שבזכותה מגיע לו שכר בעולם הזה, דהיינו בנים הגונים",
+    "qa_issue": "Phrase 'זרע של קיימא' not in source — removed; also aligned 'מגיע לו' with source wording"
+  }
+]

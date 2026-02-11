@@ -1,0 +1,11 @@
+[
+  {
+    "chapter": "פרק רביעי",
+    "section": "זמנים מסויימים",
+    "number": "מא",
+    "field": "source",
+    "old_value": "חזון איש (פירוש בראשית), בית אברהם (פרשת תצא)",
+    "new_value": "חזוה״ק (פירוש בראשית), בית אברהם (פרשת תצא)",
+    "reason_for_fix": "The abbreviation in the original source text is חזוה״ק (פי׳ בראשית), not חזון איש. The index incorrectly expanded the abbreviation to חזון איש, which is a different work entirely. Keeping the abbreviation as-is since the full expansion cannot be determined with certainty."
+  }
+]
